@@ -32,8 +32,8 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.simpleicons.org/huggingface/ffcc00" width="40" title="Hugging Face"/>
   <img src="https://cdn.simpleicons.org/vercel/white" width="40" title="Vercel"/>
-  <img src="https://api.iconify.design/simple-icons:pinecone.svg?color=white" width="40" title="Pinecone"/>
-  <img src="https://api.iconify.design/simple-icons:cohere.svg?color=white" width="40" title="Cohere"/>
+<img src="https://skillicons.dev/icons?i=pinecone" width="40" title="Pinecone"/>
+  <img src="https://skillicons.dev/icons?i=cohere" width="40" title="Cohere"/>
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="40" title="OpenAI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
