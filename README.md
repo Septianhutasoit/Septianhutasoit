@@ -32,9 +32,9 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.simpleicons.org/huggingface/ffcc00" width="40" title="Hugging Face"/>
   <img src="https://cdn.simpleicons.org/vercel/white" width="40" title="Vercel"/>
-  <img src="https://cdn.simpleicons.org/pinecone/white" width="40" title="Pinecone"/>
-  <img src="https://cdn.simpleicons.org/cohere/white" width="40" title="Cohere"/>
-  <img src="https://cdn.simpleicons.org/openai/white" width="40" title="OpenAI"/>
+  <img src="https://api.iconify.design/simple-icons:pinecone.svg?color=white" width="40" title="Pinecone"/>
+  <img src="https://api.iconify.design/simple-icons:cohere.svg?color=white" width="40" title="Cohere"/>
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="40" title="OpenAI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.simpleicons.org/github/white" width="40" title="GitHub"/>
