@@ -30,6 +30,13 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <!-- Hugging Face -->
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/pineconeio/pineconeio-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/cohereai/cohereai-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <!-- GitHub White Icon -->
