@@ -29,7 +29,6 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.simpleicons.org/huggingface/ffcc00" width="40" title="Hugging Face"/>
   <img src="https://cdn.simpleicons.org/vercel/white" width="40" title="Vercel"/>
 <img src="https://skillicons.dev/icons?i=pinecone" width="40" title="Pinecone"/>
