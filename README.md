@@ -14,25 +14,15 @@ I am a Software Engineer passionate about building robust web applications and e
  🤝 Connect with me:
 
 <p align="left">
-  <!-- Website Portfolio -->
-  <a href="https://portofolio-puce-phi.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" title="Portfolio Website" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/septian-a-hutasoit/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="30" title="LinkedIn" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/tianhts_/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E1306C" width="30" title="Instagram" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <!-- Email -->
-  <a href="mailto:septianhts95@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" title="Email Me" alt="Email"/>
-  </a>
+<a href="https://portofolio-puce-phi.vercel.app/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" />
+</a>
+<a href="https://www.linkedin.com/in/septian-a-hutasoit/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+</a>
+<a href="https://www.instagram.com/tianhts_/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+</a>
 </p>
 
 ### 🛠 Tech Stack
