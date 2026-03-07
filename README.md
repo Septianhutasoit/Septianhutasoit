@@ -11,23 +11,19 @@ I am a Software Engineer passionate about building robust web applications and e
 
 📫 Reach out to me for collaborations or tech chats!
 
-<p align="left">
-  <!-- Link Portfolio -->
-  <a href="https://portofolio-puce-phi.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" title="Portfolio Website" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <!-- Link LinkedIn -->
-  <a href="https://www.linkedin.com/in/septian-a-hutasoit/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40" title="LinkedIn" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <!-- Link Instagram -->
-  <a href="https://www.instagram.com/tianhts_/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E1306C" width="40" title="Instagram" alt="Instagram"/>
-  </a>
-</p>
+ 🤝 Connect with me:
 
+<p align="left">
+<a href="https://portofolio-puce-phi.vercel.app/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" />
+</a>
+<a href="https://www.linkedin.com/in/septian-a-hutasoit/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+</a>
+<a href="https://www.instagram.com/tianhts_/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
+</a>
+</p>
 ### 🛠 Tech Stack
 
 <p align="left">
