@@ -11,57 +11,22 @@ I am a Software Engineer passionate about building robust web applications and e
 
 📫 Reach out to me for collaborations or tech chats!
 
-<div class="social-media-container">
-  
-  <!-- Link Portfolio Web -->
-  <a href="https://alamat-web-kamu.com" target="_blank" title="My Portfolio">
-    <img src="https://api.iconify.design/solar:globus-outline.svg?color=%234285F4" alt="Portfolio" />
+<p align="left">
+  <!-- Link Portfolio -->
+  <a href="https://portofolio-puce-phi.vercel.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" title="Portfolio Website" alt="Portfolio"/>
   </a>
-
+  &nbsp;
   <!-- Link LinkedIn -->
-  <a href="https://www.linkedin.com/in/username-kamu" target="_blank" title="Connect on LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/septian-a-hutasoit/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40" title="LinkedIn" alt="LinkedIn"/>
   </a>
-
+  &nbsp;
   <!-- Link Instagram -->
-  <a href="https://www.instagram.com/username-kamu" target="_blank" title="Follow on Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E1306C" alt="Instagram" />
+  <a href="https://www.instagram.com/tianhts_/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E1306C" width="40" title="Instagram" alt="Instagram"/>
   </a>
-
-  <!-- Link GitHub (Opsional) -->
-  <a href="https://github.com/username-kamu" target="_blank" title="My GitHub">
-    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" />
-  </a>
-
-</div>
-
-<!-- Gaya CSS (Tambahkan di bagian <style> kamu) -->
-<style>
-  .social-media-container {
-    display: flex;
-    gap: 20px; /* Jarak antar icon */
-    justify-content: flex-start;
-    align-items: center;
-    padding: 20px 0;
-  }
-
-  .social-media-container a {
-    transition: transform 0.3s ease, filter 0.3s ease;
-    text-decoration: none;
-  }
-
-  .social-media-container img {
-    width: 45px; /* Ukuran icon */
-    height: 45px;
-    display: block;
-  }
-
-  /* Efek ketika kursor diarahkan ke icon (Hover) */
-  .social-media-container a:hover {
-    transform: translateY(-5px); /* Icon sedikit naik ke atas */
-    filter: brightness(1.2);    /* Icon sedikit lebih terang */
-  }
-</style>
+</p>
 
 ### 🛠 Tech Stack
 
