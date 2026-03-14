@@ -7,7 +7,7 @@ I am a Software Engineer passionate about building robust web applications and e
 
 🤖 Deeply interested in Artificial Intelligence and Machine Learning.
 
-💡 Always learning new technologies and best practices in software architecture.
+💡 Always learning new technologies and best practices in Software Architecture.
 
 📫 Reach out to me for collaborations or tech chats!
 
