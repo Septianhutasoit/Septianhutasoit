@@ -14,7 +14,7 @@ I am a Software Engineer passionate about building robust web applications and e
  🤝 Connect with me:
 
 <p align="left">
-<a href="https://portofolio-puce-phi.vercel.app/" target="blank">
+<a href="https://septianhutasoit7.my.id/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" />
 </a>
 <a href="https://www.linkedin.com/in/septian-a-hutasoit/" target="blank">
