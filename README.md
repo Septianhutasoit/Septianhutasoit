@@ -1,5 +1,5 @@
 Hi there 👋 I'm Septian Hutasoit
-Software Engineer | Backend Developer | Fullstack Web Development & AI Enthusiast
+Software Engineer | Backend Developer | Fullstack Web Development & AI|ML Enthusiast
 
 I am a Software Engineer passionate about building robust web applications and exploring the world of Artificial Intelligence. I specialize in full-stack development and I'm always looking for ways to integrate AI to create smarter, more efficient user experiences.
 
