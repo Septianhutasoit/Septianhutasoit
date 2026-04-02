@@ -56,7 +56,6 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="NPM"/>
-
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
   <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" title="Golang"/>
 </p>
