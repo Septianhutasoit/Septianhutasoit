@@ -49,7 +49,7 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://skillicons.dev/icons?i=cohere" width="40" title="Cohere"/>
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="40" title="OpenAI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"title="Kubernetes"/>
   <img src="https://cdn.simpleicons.org/github/white" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
