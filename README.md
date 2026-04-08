@@ -55,7 +55,10 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" 
+     width="40" 
+     title="FastAPI"
+     style="background-color:#009688; padding:6px; border-radius:8px; filter: brightness(0) invert(1);"/>
   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
   <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" title="Golang"/>
 </p>
