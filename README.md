@@ -45,7 +45,7 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.simpleicons.org/huggingface/ffcc00" width="40" title="Hugging Face"/>
   <img src="https://cdn.simpleicons.org/vercel/white" width="40" title="Vercel"/>
-<img src="https://skillicons.dev/icons?i=pinecone" width="40" title="Pinecone"/>
+  <img src="https://skillicons.dev/icons?i=pinecone" width="40" title="Pinecone"/>
   <img src="https://skillicons.dev/icons?i=cohere" width="40" title="Cohere"/>
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="40" title="OpenAI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
@@ -55,7 +55,7 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" title="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" title="NPM"/>
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
   <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" title="Golang"/>
 </p>
