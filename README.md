@@ -44,7 +44,6 @@ I am a Software Engineer passionate about building robust web applications and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.simpleicons.org/huggingface/ffcc00" width="40" title="Hugging Face"/>
-  <img src="https://cdn.simpleicons.org/vercel/white" width="40" title="Vercel"/>
   <img src="https://skillicons.dev/icons?i=pinecone" width="40" title="Pinecone"/>
   <img src="https://skillicons.dev/icons?i=cohere" width="40" title="Cohere"/>
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=white" width="40" title="OpenAI"/>
