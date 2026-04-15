@@ -24,3 +24,7 @@ I am a Software Engineer passionate about building robust web applications and e
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
 </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5,7" />
+</p>
