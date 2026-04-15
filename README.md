@@ -25,6 +25,4 @@ I am a Software Engineer passionate about building robust web applications and e
 </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=true&color=timeGradient"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&color=timeGradient"/>
