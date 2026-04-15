@@ -27,11 +27,67 @@ I am a Software Engineer passionate about building robust web applications and e
 
 <div align="center">
   
-  <!-- Animated Gradient Text - BERGERAK SMOOTH DI ATAS & BERUBAH WARNA -->
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=55&duration=1&pause=800&color=FF6B6B&center=true&vCenter=true&repeat=false&width=550&height=80&lines=DentalAI+Systems" alt="DentalAI Systems" />
+  <!-- Animated Gradient Text di ATAS (bergerak smooth) -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=45&duration=1&pause=1000&color=6A0DAD&center=true&vCenter=true&repeat=false&width=500&height=70&lines=DentalAI+Systems" alt="DentalAI Systems" />
+  </h1>
   
-  <br/>
+  <!-- Animated Rainbow Gradient Text yang Berubah Warna -->
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=45&duration=3000&pause=500&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=80&lines=DentalAI+Systems;DentalAI+Systems;DentalAI+Systems&color=FF5733&animation=blinking" alt="Typing SVG" />
+    </a>
+  </h1>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&duration=3000&pause=100&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=550&height=100&lines=%F0%9F%A6%B7+DentalAI+Systems+%F0%9F%A6%B7;%E2%9A%99%EF%B8%8F+DentalAI+Systems+%E2%9A%99%EF%B8%8F;%F0%9F%92%99+DentalAI+Systems+%F0%9F%92%99;%F0%9F%8E%AF+DentalAI+Systems+%F0%9F%8E%AF" alt="Animated DentalAI Systems" />
-  
+  <!-- Animated Gradient dengan CSS (BERUBAH WARNA) -->
+  <h1>
+    <span style="
+      background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7, #DDA0DD, #FF6B6B);
+      background-size: 400% auto;
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      animation: gradientFlow 3s linear infinite;
+      font-size: 60px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+    ">
+      DentalAI Systems
+    </span>
+  </h1>
+
 </div>
+
+<style>
+  @keyframes gradientFlow {
+    0% { background-position: 0% center; }
+    100% { background-position: 200% center; }
+  }
+  
+  @keyframes colorChange {
+    0% { color: #FF6B6B; }
+    25% { color: #4ECDC4; }
+    50% { color: #45B7D1; }
+    75% { color: #96CEB4; }
+    100% { color: #FF6B6B; }
+  }
+</style>
+
+<!-- Versi dengan Animation Berubah Warna (JavaScript/HTML) -->
+<div align="center">
+  <h1 id="animated-text" style="font-size: 60px; font-weight: 700; font-family: 'Poppins', sans-serif;">
+    DentalAI Systems
+  </h1>
+</div>
+
+<script>
+  const colors = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FFEAA7', '#DDA0DD', '#FF6B6B'];
+  let index = 0;
+  const textElement = document.getElementById('animated-text');
+  
+  setInterval(() => {
+    textElement.style.color = colors[index % colors.length];
+    textElement.style.transition = 'color 0.5s ease';
+    index++;
+  }, 1000);
+</script>
