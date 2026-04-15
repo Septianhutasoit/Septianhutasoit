@@ -26,5 +26,5 @@ I am a Software Engineer passionate about building robust web applications and e
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,3,5,7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=true&color=gradient&customColorList=0,2,3,5,6,7" />
 </p>
