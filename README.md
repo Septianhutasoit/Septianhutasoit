@@ -3,7 +3,7 @@ Software Engineer | Backend Developer | Fullstack Web Development & AI/ML Enthus
 
 I am a Software Engineer passionate about building robust web applications and exploring the world of Artificial Intelligence. I specialize in full-stack development and I'm always looking for ways to integrate AI to create smarter, more efficient user experiences.
 
-🌐 Specialized in Web Development (FastApi, React.js, Node.js,Next.js, Laravel).
+🌐 Specialized in Web Development (FastApi, React.js, Node.js,Next.js, Pytorch, Neon, Laravel).
 
 🤖 Deeply interested in Artificial Intelligence and Machine Learning.
 
